@@ -20,7 +20,7 @@
    
    ##
    <div>
-      <a href="antoniototi0@gmail.com"><img align = "center" height ="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="mailto:antoniototi0@gmail.com"><img align = "center" height ="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/antonio_dall_agnol" target="_blank"><img align = "center" height ="30" width="150" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a href="https://twitter.com/Boynomc" target="_blank"><img align = "center" height ="30" width="100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
       <a href="https://www.twitch.tv/boynomc" target="_blank"><img align= "center" height ="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
