@@ -4,7 +4,7 @@
 
 💻 Carreira Profissional: Pretendo seguir carreira de desenvolvedor
 
-👨 Idade: 19 anos
+👨 Idade: 21 anos
 
 <div align="center">
   
